@@ -42,13 +42,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-3a) Run the script
-
-```powershell
-python .\imdb_movie_analysis.py
-```
-
-3b) Or open the notebook
+3 Open the notebook
 
 ```powershell
 jupyter notebook .\imdb_movie_analysis.ipynb
