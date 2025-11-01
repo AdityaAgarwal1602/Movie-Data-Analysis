@@ -56,7 +56,6 @@ jupyter notebook .\imdb_movie_analysis.ipynb
 
 Notes:
 - The code expects the CSV at `Dataset/movie_metadata.csv`. Adjust `csv_path` if yours differs.
-- In VS Code, you can run the `.py` file cell-by-cell using the Python extension.
 
 ## License
 MIT — see `LICENSE`.
